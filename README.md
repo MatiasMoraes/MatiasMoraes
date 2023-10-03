@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **matiascarlify@gmail.com**
 
-- 📄 aqui esta minha rede proficional onde apresento minhas habilidades: [https://www.linkedin.com/in/matias-jesus-de-moraes-1009921a0](https://www.linkedin.com/in/matias-jesus-de-moraes-1009921a0)
+- 📄 Aqui esta minha rede proficional onde apresento minhas habilidades: [https://www.linkedin.com/in/matias-jesus-de-moraes-1009921a0](https://www.linkedin.com/in/matias-jesus-de-moraes-1009921a0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
