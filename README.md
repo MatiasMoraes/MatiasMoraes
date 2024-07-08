@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Matias Moraes</h1>
 <h3 align="center">Sou entusiasta na área de Big Data e sonho me tornar um Engenharia de Dados</h3>
 
-- 🌱 Atualmente estou me Familiarizando em **Clounds Azure, Aws, Python, SQL**
+- 🌱 Atualmente estou me Familiarizando em **SQL, Python, Azure, Aws, Spark e Databricks**
 
 - 📫 Você me acha através do e-mail **matiascarlify@gmail.com**
 
