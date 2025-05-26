@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Matias Moraes</h1>
-<h3 align="center">Sou entusiasta na área de Big Data e sonho me tornar um Engenharia de Dados</h3>
+<h3 align="center">Sou entusiasta na área de Dados, formado em Big Data e Inteligência analítica</h3>
 
 - 🌱 Atualmente estou me Familiarizando em **SQL, Python, Azure, Aws, Spark e Databricks**
 
