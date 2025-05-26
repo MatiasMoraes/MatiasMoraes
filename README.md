@@ -6,6 +6,8 @@
 - 📫 Você me acha através do e-mail **matiascarlify@gmail.com**
 
 - 📄 Aqui esta minha rede proficional onde apresento minhas habilidades: [https://www.linkedin.com/in/matias-jesus-de-moraes-1009921a0](https://www.linkedin.com/in/matias-jesus-de-moraes-1009921a0)
+- Abaixo esta meu CV
+- ![CV_Matias_Moraes_Novo](https://github.com/user-attachments/assets/b2af987b-9c7d-422a-8f48-3eae40778ea8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
